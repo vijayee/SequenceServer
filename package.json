@@ -5,6 +5,8 @@
     "base36sequence": "0.0.2",
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
-    "level": "^1.3.0"
+    "level": "^1.3.0",
+    "leveldown": "^1.4.2",
+    "levelup": "^1.2.1"
   }
 }
