@@ -1,6 +1,8 @@
 {
   "name": "sequenceserver",
   "version": "0.0.1",
+  "readme" : "readme.md",
+  "repository" : "https://github.com/vijayee/SequenceServer",
   "dependencies": {
     "base36sequence": "0.0.2",
     "body-parser": "^1.14.1",
