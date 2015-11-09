@@ -4,7 +4,7 @@
   "readme": "readme.md",
   "repository": "https://github.com/vijayee/SequenceServer",
   "dependencies": {
-    "base62sequence": "0.0.1",
+    "base62sequence": "0.0.2",
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
     "level": "^1.3.0",
