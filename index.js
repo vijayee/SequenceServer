@@ -20,7 +20,7 @@ app.use(function(err, req, res, next) {
 var cache = {};
 var prefix;
 
-router.post('/', function(req, res) {
+router.post('/id', function(req, res) {
     //reject request with broken json fields
     if(!req.body || !req.body.type || !req.body.db){
         res.sendStatus(400);
