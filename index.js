@@ -66,7 +66,7 @@ router.post('/', function(req, res) {
 
 });
 
-router.post('/clientprefix', function(req, res) {
+router.post('/prefix', function(req, res) {
     var key='client-prefix';
     if (prefix){
         var next = prefix.next();
